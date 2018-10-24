@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{24CE3C36-16B9-426D-AA0C-5961ECF8D88C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lupe/Views/MainPage.xaml">
+    <Files>
+      <File FileName="lupe/Views/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="lupe/Views/MainPage.xaml" Line="18" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.lupe.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.lupe FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.lupe.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.lupe.UITests FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.lupe.MobileAppService FirstBuild="True" />
+</Properties>
